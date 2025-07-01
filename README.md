@@ -8,7 +8,7 @@ O objetivo é criar uma dashboard interativa com widgets, status dos EVAs, monit
 ## 📸 Preview
 > *Imagem conceitual:*
 
-![Aesthetic Evangelion](Imagens/Background anime_Evangelion.jpeg)
+![Aesthetic Evangelion](https://imgs.search.brave.com/0bcU_zyqKmyL_GHEfGYzRLM0I8Y62ljsFx1IKpyn2DA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDg3Mzg1/NDUuanBn)
 
 ---
 
@@ -40,9 +40,6 @@ O objetivo é criar uma dashboard interativa com widgets, status dos EVAs, monit
 
 ## 📌 Funcionalidades
 
-### ✅ Implementadas:
-...
-
 ### 🛠️ Em desenvolvimento:
 - Tela de login fake estilo NERV
 - Dashboard com status fixos
@@ -55,6 +52,9 @@ O objetivo é criar uma dashboard interativa com widgets, status dos EVAs, monit
 - API de relatórios diários
 - Ranking de quiz
 - Painel de Anjos ativos
+
+- ### ✅ Implementadas:
+...
 
 ---
 
