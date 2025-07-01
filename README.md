@@ -8,7 +8,7 @@ O objetivo é criar uma dashboard interativa com widgets, status dos EVAs, monit
 ## 📸 Preview
 > *Imagem conceitual:*
 
-![Aesthetic Evangelion](Imagens/Background anime_Evagelion.jpeg)
+![Aesthetic Evangelion](Imagens/Background anime_Evangelion.jpeg)
 
 ---
 
