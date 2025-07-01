@@ -8,7 +8,7 @@ O objetivo é criar uma dashboard interativa com widgets, status dos EVAs, monit
 ## 📸 Preview
 > *Imagem conceitual:*
 
-![Aesthetic Evangelion](https://imgs.search.brave.com/0bcU_zyqKmyL_GHEfGYzRLM0I8Y62ljsFx1IKpyn2DA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDg3Mzg1/NDUuanBn)
+![Aesthetic Evangelion](https://imgs.search.brave.com/5qs_-0nDXx5OdNFbnTl4y3KGq0DJaP7T4xqhQII5dEw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2Y0L2Q1/Lzc0L2Y0ZDU3NGQ2/MTBkZjUyMjI0MDM1/MDY5OTg1MmRjNTBj/LmpwZw)
 
 ---
 
