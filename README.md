@@ -72,7 +72,7 @@ O objetivo é criar uma dashboard interativa com widgets, status dos EVAs, monit
 
 ---
 
-## Design do projeto
+## 🖼️ Design do projeto
 
 https://www.figma.com/design/ajJLADp7q9U7rtnTJraU7t/trabalhos?node-id=0-1&t=5XF9uBpXHCxjH7RA-1
 
