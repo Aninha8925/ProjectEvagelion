@@ -15,7 +15,7 @@ O objetivo é criar uma dashboard interativa com widgets, status dos EVAs, monit
 ## 🎨 Aesthetic & Identidade Visual
 
 - **Cores predominantes:** Preto, vermelho, cores neon..
-- **Fonte principal:** [Eurostile Bold Extended](https://www.dafontfree.io/eurostile-font-family/) e [Orbitron](https://fonts.google.com/specimen/Orbitron)
+- **Fonte principal:** Share Tech.
 - **Inspiração:** MAGI System, painéis da NERV, visual militar-futurista.
 
 ---
@@ -26,6 +26,7 @@ O objetivo é criar uma dashboard interativa com widgets, status dos EVAs, monit
 - HTML5
 - CSS3 (Animações e efeitos glitch)
 - JavaScript (Manipulação de DOM e APIs)
+- React
 - Fontes: Orbitron, Share Tech Mono, Eurostile
 - Layout responsivo
 
@@ -43,15 +44,13 @@ O objetivo é criar uma dashboard interativa com widgets, status dos EVAs, monit
 ### 🛠️ Em desenvolvimento:
 - Tela de login fake estilo NERV
 - Dashboard com status fixos
-- Relógio digital estilo MAGI
 - Quiz de Evangelion (JS)
-- Frases aleatórias no rodapé
 - CRUD de personagens e EVAs
 - Sistema de logs de operação
 - Registro de combates
 - API de relatórios diários
 - Ranking de quiz
-- Painel de Anjos ativos
+- Prompt de comando
 
 - ### ✅ Implementadas:
 ...
@@ -77,10 +76,3 @@ O objetivo é criar uma dashboard interativa com widgets, status dos EVAs, monit
 https://www.figma.com/design/ajJLADp7q9U7rtnTJraU7t/trabalhos?node-id=0-1&t=5XF9uBpXHCxjH7RA-1
 
 ---
-
-## 💻 Como rodar o projeto
-
-### 🔧 Front-End:
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/SeuUsuario/painel-nerv-evangelion.git
