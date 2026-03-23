@@ -31,7 +31,7 @@ O objetivo é criar uma dashboard interativa com widgets, status dos EVAs, monit
 - Layout responsivo
 
 ### Back-End (em desenvolvimento)
-- Node.js
+- C#
 - Banco de dados: JSON, SQL
 - CRUD de personagens, Anjos e batalhas
 - Logs de operações
@@ -62,7 +62,7 @@ O objetivo é criar uma dashboard interativa com widgets, status dos EVAs, monit
 1. [ ] Estruturar o projeto front-end
 2. [ ] Criar dashboard e widgets no front
 3. [ ] Quiz funcional no front
-4. [ ] Desenvolver back-end com Node.js + Express
+4. [ ] Desenvolver back-end com C#
 5. [ ] CRUD de personagens, Anjos e EVAs
 6. [ ] Sistema de logs e API de frases
 7. [ ] Integração front-back via fetch
